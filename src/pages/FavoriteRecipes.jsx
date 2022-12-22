@@ -52,6 +52,7 @@ function FavoriteRecipes() {
       style={ {
         display: 'flex',
         justifyContent: 'center',
+        alignItems: 'flex-start',
         height: '100%',
         backgroundColor: 'rgba(65, 25, 127, 1)',
         width: '100%',
