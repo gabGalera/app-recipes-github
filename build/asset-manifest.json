@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/app-recipes-github/static/css/main.14be5708.css",
+    "main.css": "/app-recipes-github/static/css/main.9f8a8889.css",
     "main.js": "/app-recipes-github/static/js/main.f8f49353.js",
     "static/media/tomate.svg": "/app-recipes-github/static/media/tomate.7ae90d3aab61e26967495aff64b25fa5.svg",
     "static/media/mealIcon.svg": "/app-recipes-github/static/media/mealIcon.40029e7f1422ba5a1bf1c10fa4f59030.svg",
@@ -32,11 +32,11 @@
     "index.html": "/app-recipes-github/index.html",
     "static/media/check.svg": "/app-recipes-github/static/media/check.8cdbad3418aa3d5259ed330dab0c2727.svg",
     "static/media/logout.svg": "/app-recipes-github/static/media/logout.d60dd1a3860f60736646f09df4cff086.svg",
-    "main.14be5708.css.map": "/app-recipes-github/static/css/main.14be5708.css.map",
+    "main.9f8a8889.css.map": "/app-recipes-github/static/css/main.9f8a8889.css.map",
     "main.f8f49353.js.map": "/app-recipes-github/static/js/main.f8f49353.js.map"
   },
   "entrypoints": [
-    "static/css/main.14be5708.css",
+    "static/css/main.9f8a8889.css",
     "static/js/main.f8f49353.js"
   ]
 }
