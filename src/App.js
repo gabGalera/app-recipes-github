@@ -14,14 +14,6 @@ import RecipeInProgress from './pages/RecipeInProgress';
 
 function App() {
   return (
-    // <div
-    //   style={ {
-    //     background: 'rgba(65, 25, 127, 1)',
-    //     display: 'flex',
-    //     justifyContent: 'center',
-    //     minHeight: '100vh',
-    //   } }
-    // >
     <Switch>
       <Route exact path="/" component={ Login } />
       <Route exact path="/meals" component={ Recipes } />
@@ -34,7 +26,6 @@ function App() {
       <Route exact path="/meals/:id/in-progress" component={ RecipeInProgress } />
       <Route exact path="/drinks/:id/in-progress" component={ RecipeInProgress } />
     </Switch>
-    // </div>
   );
 }
 
