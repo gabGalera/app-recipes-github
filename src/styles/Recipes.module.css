@@ -56,10 +56,10 @@
 
 @media ( max-width : 500px ) {
 
-  .img__input {
+  /* .img__input {
     height: 3.5rem;
     width: 4rem;
-  }
+  } */
 
   .footer__input {
     height: 2rem;
