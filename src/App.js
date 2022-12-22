@@ -23,16 +23,16 @@ function App() {
     //   } }
     // >
     <Switch>
-      <Route exact path="/" component={ Login } />
-      <Route exact path="/meals" component={ Recipes } />
-      <Route exact path="/drinks" component={ Recipes } />
-      <Route path="/profile" component={ Profile } />
-      <Route path="/done-recipes" component={ DoneRecipes } />
-      <Route path="/favorite-recipes" component={ FavoriteRecipes } />
-      <Route exact path="/meals/:id" component={ RecipeDetails } />
-      <Route exact path="/drinks/:id" component={ RecipeDetails } />
-      <Route exact path="/meals/:id/in-progress" component={ RecipeInProgress } />
-      <Route exact path="/drinks/:id/in-progress" component={ RecipeInProgress } />
+      <Route exact path="https://gabgalera.github.io/app-recipes-github/" component={ Login } />
+      <Route exact path="https://gabgalera.github.io/app-recipes-github/meals" component={ Recipes } />
+      <Route exact path="https://gabgalera.github.io/app-recipes-github/drinks" component={ Recipes } />
+      <Route path="https://gabgalera.github.io/app-recipes-github/profile" component={ Profile } />
+      <Route path="https://gabgalera.github.io/app-recipes-github/done-recipes" component={ DoneRecipes } />
+      <Route path="https://gabgalera.github.io/app-recipes-github/favorite-recipes" component={ FavoriteRecipes } />
+      <Route exact path="https://gabgalera.github.io/app-recipes-github/meals/:id" component={ RecipeDetails } />
+      <Route exact path="https://gabgalera.github.io/app-recipes-github/drinks/:id" component={ RecipeDetails } />
+      <Route exact path="https://gabgalera.github.io/app-recipes-github/meals/:id/in-progress" component={ RecipeInProgress } />
+      <Route exact path="https://gabgalera.github.io/app-recipes-github/drinks/:id/in-progress" component={ RecipeInProgress } />
     </Switch>
     // </div>
   );
