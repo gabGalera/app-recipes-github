@@ -25,11 +25,11 @@ function Header({ title, search, image }) {
         <h2
           className={ styles.first__part__title }
         >
-          <em>
             Cozinhando com
-          </em>
           {' '}
-          <span style={ { color: 'rgba(65, 25, 127, 1)' } }>Trybers</span>
+          <em>
+            <span style={ { color: 'rgba(65, 25, 127, 1)' } }>Galera</span>
+          </em>
         </h2>
         <input
           data-testid="profile-top-btn"
