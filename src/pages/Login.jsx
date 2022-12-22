@@ -28,17 +28,22 @@ export default class Login extends Component {
 
   handleClick = (event) => {
     event.preventDefault();
-    const { history } = this.props;
-    const { email } = this.state;
-    const toStorange = {
-      email,
-    };
-    localStorage.setItem('user', JSON.stringify(toStorange));
-    history.push('/meals');
+    const {buttonDisabled} = this.state;
+    if(buttonDisabled){
+      global.alert('Forneça um email válido e uma senha com pelo menos 8 caractéres.')
+    } else {
+      const { history } = this.props;
+      const { email } = this.state;
+      const toStorange = {
+        email,
+      };
+      localStorage.setItem('user', JSON.stringify(toStorange));
+      history.push('/meals');
+    }
   };
 
   render() {
-    const { email, password, buttonDisabled } = this.state;
+    const { email, password } = this.state;
     const { handleChange, handleClick } = this;
     return (
       <form
@@ -102,7 +107,7 @@ export default class Login extends Component {
             data-testid="login-submit-btn"
             type="submit"
             onClick={ handleClick }
-            disabled={ buttonDisabled }
+            // disabled={ buttonDisabled }
           >
             Enter
           </button>
