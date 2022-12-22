@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/app-recipes-github/static/css/main.14be5708.css",
+    "main.js": "/app-recipes-github/static/js/main.f8f49353.js",
+    "static/media/tomate.svg": "/app-recipes-github/static/media/tomate.7ae90d3aab61e26967495aff64b25fa5.svg",
+    "static/media/mealIcon.svg": "/app-recipes-github/static/media/mealIcon.40029e7f1422ba5a1bf1c10fa4f59030.svg",
+    "static/media/shareIcon.svg": "/app-recipes-github/static/media/shareIcon.87def1bd1dff9af9263f046c3b9bd31a.svg",
+    "static/media/profileIcon.svg": "/app-recipes-github/static/media/profileIcon.44eb3608f431845fe2fc2d2a23d758ae.svg",
+    "static/media/whiteHeartIcon.svg": "/app-recipes-github/static/media/whiteHeartIcon.2b822118952dc5140129c6349fcd0472.svg",
+    "static/media/logoRecipesApp.svg": "/app-recipes-github/static/media/logoRecipesApp.41bab340aaa08a53a4f3a759f18b56aa.svg",
+    "static/media/beef.svg": "/app-recipes-github/static/media/beef.8b377bf08ed5184e653888bb743ff8e4.svg",
+    "static/media/breakfast.svg": "/app-recipes-github/static/media/breakfast.3c1b95cb3d3fc16cf1ee80f3522268ab.svg",
+    "static/media/searchIcon.svg": "/app-recipes-github/static/media/searchIcon.7353564d025de989f86f66ecb0202a04.svg",
+    "static/media/dessert.svg": "/app-recipes-github/static/media/dessert.3bf15365495fc0a5786d0ae22a3c395d.svg",
+    "static/media/drink.svg": "/app-recipes-github/static/media/drink.9f8ac9b1b308c858b41dd488d2d4c0b1.svg",
+    "static/media/blackHeartIcon.svg": "/app-recipes-github/static/media/blackHeartIcon.083cb006913d197c95857ebfa2161db7.svg",
+    "static/media/other.svg": "/app-recipes-github/static/media/other.01d1b2f9dc826c435b0fcd261ba694b9.svg",
+    "static/media/drinkIcon.svg": "/app-recipes-github/static/media/drinkIcon.efc0d3c156e5da73e44a826c8d67b142.svg",
+    "static/media/cocoa.svg": "/app-recipes-github/static/media/cocoa.0abd2475264cb9f370fd4b3342f425ae.svg",
+    "static/media/goat.svg": "/app-recipes-github/static/media/goat.f687753deca28f18804f05f07962f126.svg",
+    "static/media/cocktail.svg": "/app-recipes-github/static/media/cocktail.d2ad1f863435266cb6d90caa2d05b237.svg",
+    "static/media/foodIcon.svg": "/app-recipes-github/static/media/foodIcon.ce1f3689cceebd06264519595a4d17c0.svg",
+    "static/media/chicken.svg": "/app-recipes-github/static/media/chicken.664f169baca23bf113d5b2914eb96c00.svg",
+    "static/media/shake.svg": "/app-recipes-github/static/media/shake.339c82f29a739fb0f53725e925ec5bf3.svg",
+    "static/media/All.svg": "/app-recipes-github/static/media/All.57ee084df4dccad0657ff04db449a7a8.svg",
+    "static/media/beverageIcon.svg": "/app-recipes-github/static/media/beverageIcon.d67eceb5741d43a2d1d1cd5e810a69c1.svg",
+    "static/media/allButton.svg": "/app-recipes-github/static/media/allButton.8c7a3119f8cac688b6b0611f5a44d492.svg",
+    "static/media/bellWithHeart.svg": "/app-recipes-github/static/media/bellWithHeart.ba8c03cb823f0d442b8fd1226644f4da.svg",
+    "static/media/allDrink.svg": "/app-recipes-github/static/media/allDrink.5dd7f83942f118ab7f9b44599bcc72cc.svg",
+    "static/media/shareHeart.svg": "/app-recipes-github/static/media/shareHeart.dd98ca135a8073d110b41efcc357fec6.svg",
+    "static/media/perfil.svg": "/app-recipes-github/static/media/perfil.484550356ae39a06ca657c9e733a2b76.svg",
+    "index.html": "/app-recipes-github/index.html",
+    "static/media/check.svg": "/app-recipes-github/static/media/check.8cdbad3418aa3d5259ed330dab0c2727.svg",
+    "static/media/logout.svg": "/app-recipes-github/static/media/logout.d60dd1a3860f60736646f09df4cff086.svg",
+    "main.14be5708.css.map": "/app-recipes-github/static/css/main.14be5708.css.map",
+    "main.f8f49353.js.map": "/app-recipes-github/static/js/main.f8f49353.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14be5708.css",
+    "static/js/main.f8f49353.js"
+  ]
+}
