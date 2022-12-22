@@ -126,29 +126,7 @@ function FavoriteRecipes() {
               />
             </Link>
             <div className={ styles.text__div }>
-              <Link
-                to={ `${favRecipe
-                  .type}s/${favRecipe.id}` }
-                style={ {
-                  textDecoration: 'none',
-                  color: 'black',
-                } }
-              >
-                <p
-                  className={ styles.recipe__name }
-                  data-testid={ `${index}-horizontal-name` }
-                >
-                  {favRecipe.name}
-                </p>
-              </Link>
-              <p
-                className={ styles.recipe__type }
-                data-testid={ `${index}-horizontal-top-text` }
-              >
-                {favRecipe.type === 'drink' ? favRecipe.alcoholicOrNot
-                  : `${favRecipe.nationality} - ${favRecipe.category}`}
-              </p>
-              <div className={ styles.div__done }>
+            <div className={ styles.div__done }>
                 <input
                   className={ styles.share__fav__btn }
                   type="image"
@@ -176,6 +154,29 @@ function FavoriteRecipes() {
                   type="image"
                 />
               </div>
+              <Link
+                to={ `${favRecipe
+                  .type}s/${favRecipe.id}` }
+                style={ {
+                  textDecoration: 'none',
+                  color: 'black',
+                  width: '50%',
+                } }
+              >
+                <p
+                  className={ styles.recipe__name }
+                  data-testid={ `${index}-horizontal-name` }
+                >
+                  {favRecipe.name}
+                </p>
+              </Link>
+              <p
+                className={ styles.recipe__type }
+                data-testid={ `${index}-horizontal-top-text` }
+              >
+                {favRecipe.type === 'drink' ? favRecipe.alcoholicOrNot
+                  : `${favRecipe.nationality} - ${favRecipe.category}`}
+              </p>
             </div>
           </div>
         ))}
