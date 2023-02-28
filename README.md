@@ -1,6 +1,13 @@
 # Recipes App Trybe
 
-Esse projeto é o trabalho de conclusão de curso do módulo de front-end da Trybe. Nele foi desenvolvido um App de receitas utilizando React Hooks e Context API, sendo possível ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas de comidas e bebidas. Foram utilizadas duas APIs: https://www.themealdb.com/ e https://www.thecocktaildb.com/api.php. O foco de design são dispositivos móveis; entretanto, também foram elaboradas versões para telas maiores.
+Esse projeto é o trabalho de conclusão de curso do módulo de front-end da Trybe. Nele foi desenvolvido um App de receitas utilizando React Hooks e Context API, sendo possível ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas de comidas e bebidas. Foram utilizadas duas APIs: https://www.themealdb.com/ e https://www.thecocktaildb.com/api.php. O foco de design são dispositivos móveis. Entretanto, também foram elaboradas versões para telas maiores.
+
+## Começando o projeto
+
+Para ver seu funcionamento existem duas opções:
+
+* Acessar o deploy: https://app-recipes-github.vercel.app/#/;
+* Ou instalar o projeto em sua máquina. 
 
 
 
