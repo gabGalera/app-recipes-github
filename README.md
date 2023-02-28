@@ -1,26 +1,49 @@
 # Recipes App Trybe
 
-Esse projeto é o trabalho de conclusão de curso do módulo de front-end da Trybe. Nele foi desenvolvido um App de receitas utilizando React Hooks e Context API, sendo possível ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas de comidas e bebidas. Foram utilizadas duas APIs: https://www.themealdb.com/ e https://www.thecocktaildb.com/api.php. O foco de design são dispositivos móveis. Entretanto, também foram elaboradas versões para telas maiores.
+Esse projeto é o trabalho de conclusão de curso do módulo de front-end da Trybe. Nele foi desenvolvido um App de receitas utilizando React Hooks e Redux, sendo possível ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas de comidas e bebidas. Foram utilizadas duas APIs: https://www.themealdb.com/ e https://www.thecocktaildb.com/api.php. O foco do design são dispositivos móveis. Entretanto, também foram elaboradas versões para telas maiores.
 
-## Começando o projeto
+## 🚀 Começando o projeto
 
 Para ver seu funcionamento existem duas opções:
 
 * Acessar o deploy: https://app-recipes-github.vercel.app/#/;
 * Ou instalar o projeto em sua máquina. 
 
+## 🔧 Rodando em sua máquina
 
+Para rodar o projeto em sua máquina, primeiro faça um clone desse repositório. Em seguida, instale as dependências do projeto utilizando o comando:
+```
+npm install
+```
+Após instalar as dependências, é possível ver o programa rodar a partir do comando:
+```
+npm start
+```
+Feito isso, o React abrirá automaticamente uma aba em seu navegador com o projeto.
 
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+## 📦 Testes
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Este projeto também contém testes unitários. Para vê-los em ação, basta rodar o comando:
+```
+npm test
+```
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## 🛠️ Contruído com
+
+* React
+* Redux
+* React Hooks
+* CSS Modules
+* Jest
+* RTL
+
+## Colaboração
+
+Elaborado em conjunto com:
+
+* Túlio Mendes
+* Paulo Pinheiro
+* Guilherme Crupi
+* Gabriel Matos Boubee
+
+A versão mais antiga do projeto, entregue como trabalho de conclusão, encontra-se neste repositório: https://github.com/gabGalera/app-recipes. 
