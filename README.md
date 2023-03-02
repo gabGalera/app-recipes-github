@@ -31,6 +31,7 @@ npm test
 ## 🛠️ Contruído com
 
 * React
+* React-Router
 * Redux
 * React Hooks
 * CSS Modules
